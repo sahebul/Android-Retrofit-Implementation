@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="title_enter_post" />
+    <string name="hint_title" />
+    <string name="hint_body" />
+    <string name="action_submit" >submit</string>
+</resources>
